@@ -16,9 +16,6 @@
  <a href="#contribute">Contribute</a>
 </p>
 
-<p align="center">
-    <img src="./.github/landing-page.png" alt="Page Layout" width="400px">
-</p>
 
 <h2 id="started">📌 About</h2>
 
